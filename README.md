@@ -1,1 +1,3 @@
-# The-Odin-Project_React_Store
+# React + TypeScript + Vite
+
+Work in progress made for "The Odin Project"
